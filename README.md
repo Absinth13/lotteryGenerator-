@@ -1,1 +1,1 @@
-this are some exercises a form and some arrays plus the lottery generator for draw numbers
+This are some exercises and some arrays plus the lottery generator for draw numbers
